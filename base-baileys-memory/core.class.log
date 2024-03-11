@@ -1,0 +1,125 @@
+[handleMsg]:  {
+  key: {
+    remoteJid: '5219842343944@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB05915D6BB93408357E4',
+    participant: undefined
+  },
+  messageTimestamp: 1710197716,
+  pushName: 'Héctor Ruiz',
+  broadcast: false,
+  message: Message {
+    conversation: 'ola',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'ola',
+  from: '5219842343944'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5219842343944@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB0BD859E42079C4DAF86',
+    participant: undefined
+  },
+  messageTimestamp: 1710197738,
+  pushName: 'Héctor Ruiz',
+  broadcast: false,
+  message: Message {
+    conversation: 'hola',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'hola',
+  from: '5219842343944'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_d1d5c349-65df-4f89-bf83-55b55d6c328f',
+  keyword: 'key_af00c7b6-83eb-44f6-a996-14984fdf23d1',
+  answer: '🙌 Hola bienvenido a este *Chatbot*',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'b5619fe77f24e604c9f39132b76b0e01'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_7d2d3dec-6b98-4e20-840c-619dcc3bf81e',
+  keyword: 'ans_d1d5c349-65df-4f89-bf83-55b55d6c328f',
+  answer: 'te comparto los siguientes links de interes sobre el proyecto\n' +
+    '👉 *doc* para ver la documentación\n' +
+    '👉 *gracias*  para ver la lista de videos\n' +
+    '👉 *discord* unirte al discord\n' +
+    '👉 *chatgpt* utilizame perro',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object]
+    ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'e2c58594a80570ed7794bd6e781ab32c'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5219842343944@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB07B4E57B656CF062B39',
+    participant: undefined
+  },
+  messageTimestamp: 1710197745,
+  pushName: 'Héctor Ruiz',
+  broadcast: false,
+  message: Message {
+    conversation: 'chatgpt',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'chatgpt',
+  from: '5219842343944'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_9c3b25f9-f692-4b44-a327-fac12c7b8dfc',
+  keyword: 'key_608c430a-9fc7-4f6a-bef6-06ee12a379cc',
+  answer: '🤪 A partir de aquí va a funcinar chatgpt\n' +
+    'la próxima clase veremos cómo conectarnos a chatpgt y que funcione en nuestro bot',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'a2408dad2f1daa443788df994de1ed77'
+}
